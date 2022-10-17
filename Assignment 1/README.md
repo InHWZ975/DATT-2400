@@ -1,5 +1,5 @@
 Notes for Assignment 1:
 
-Making a grid first
-Put a small circle on every vertices
-Make a thick line on the edges of the rectangles
+1. Making a grid first
+2. Put a small circle on every vertices
+3. Make a thick line on the edges of the rectangles
